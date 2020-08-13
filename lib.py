@@ -6,6 +6,7 @@ import textwrap
 from dotdict import *
 from strings import * 
 from assets import *
+from state import *
 
 def proper_exit():
     pygame.quit()
